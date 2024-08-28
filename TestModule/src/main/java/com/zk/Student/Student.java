@@ -10,4 +10,5 @@ public class Student {
     private int age;
     private int sum;
     private int total;
+    private int aa;
 }
